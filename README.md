@@ -1,4 +1,5 @@
 # PLMapitest
+NPM install para paquetes 
 REST API  node.js. , con los siguientes endpoints:  GET, POST, PUT, DELETE de users, La API debe quedar documentada para que otro desarrollador pueda consumirla sin mayor problema.
 
 Para probar la app en modo desarrollo se debe correr el comando node server.js
